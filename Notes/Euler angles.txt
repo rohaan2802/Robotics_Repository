@@ -1,0 +1,61 @@
+Euler angles are a set of three angles used to describe the orientation (rotation) of an object in 3D space. They represent sequential rotations around different axes of a coordinate system. These angles are commonly used in fields such as robotics, aerospace, and computer graphics to describe how an object is oriented or rotated relative to a fixed reference frame.
+
+Components of Euler Angles:
+Euler angles consist of three rotations around the principal axes (typically called 
+𝑋
+X, 
+𝑌
+Y, and 
+𝑍
+Z):
+
+Yaw (Heading) – Rotation around the Z-axis (vertical axis).
+
+Imagine standing on a rotating platform and turning left or right. This is the yaw rotation.
+Pitch (Elevation) – Rotation around the Y-axis (side-to-side axis).
+
+Imagine tipping your head forward or backward. This is the pitch rotation.
+Roll (Bank) – Rotation around the X-axis (forward axis).
+
+Imagine rotating your head by tilting it left or right toward your shoulder. This is the roll rotation.
+These angles are usually denoted as 
+𝛼
+α, 
+𝛽
+β, and 
+𝛾
+γ, and are applied in a specific sequence depending on the chosen convention.
+
+Conventions for Applying Euler Angles:
+There are different conventions for applying Euler angles, which differ based on the axes of rotation and the order in which the rotations are applied. Two common types are:
+
+Intrinsic Euler Angles:
+
+Rotations are performed about the axes of the object itself.
+After each rotation, the coordinate system moves with the object. The rotations are applied one after the other relative to the rotated axes.
+Extrinsic Euler Angles:
+
+Rotations are performed about the fixed, global coordinate system.
+The coordinate system does not move with the object after each rotation; each rotation is relative to the global reference frame.
+Example of Rotation Sequence:
+A common sequence in aerospace and robotics is Z-Y-X (yaw, pitch, roll), where the rotations are applied in the following order:
+
+Rotate around the Z-axis (yaw),
+Then around the new Y-axis (pitch),
+Finally, around the new X-axis (roll).
+Issues with Euler Angles:
+Gimbal Lock:
+
+One of the main problems with Euler angles is gimbal lock. This occurs when two of the rotation axes align, resulting in the loss of one degree of freedom. When this happens, the object can no longer rotate independently around all three axes, limiting its range of motion.
+Ambiguity:
+
+Different conventions and rotation orders can result in different interpretations of the same set of angles. This can cause confusion when applying rotations or converting between different systems.
+Use Cases:
+Aircraft and Spacecraft Orientation: Euler angles are often used to describe the orientation of planes, spacecraft, and other vehicles. The terms roll, pitch, and yaw are commonly used in this context.
+
+Robotics: In robotic arms and manipulators, Euler angles can describe the orientation of the end-effector or other parts.
+
+Computer Graphics: Euler angles are sometimes used in animations to describe how objects rotate, although quaternions are often preferred to avoid gimbal lock.
+
+Summary:
+Euler angles are a way to describe the orientation of an object in 3D space using three angles that represent sequential rotations around different axes (yaw, pitch, and roll). Although intuitive, they can suffer from issues like gimbal lock and ambiguity, making them less suitable for certain applications compared to other methods like quaternions.

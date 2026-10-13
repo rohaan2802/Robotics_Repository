@@ -1,0 +1,31 @@
+Degrees of Freedom (DOF) in the context of robotics, mechanics, or physics refers to the number of independent movements or parameters that define the position and orientation of a system or mechanism. In simpler terms, it’s the number of ways a robot or object can move.
+
+Explanation:
+DOF in 3D Space: In a 3D space, an object or point can have a maximum of 6 degrees of freedom:
+3 Translational DOF: Movement along the three perpendicular axes (x, y, and z).
+Forward/backward (along x-axis)
+Left/right (along y-axis)
+Up/down (along z-axis)
+3 Rotational DOF: Rotation around the three perpendicular axes.
+Yaw: Rotation around the z-axis.
+Pitch: Rotation around the y-axis.
+Roll: Rotation around the x-axis.
+Thus, any rigid body in space can be fully described by 6 degrees of freedom (3 translational and 3 rotational).
+
+DOF in Robotics:
+In robotics, the degrees of freedom of a robotic arm or manipulator define its ability to move and position its end-effector in space.
+
+A robotic joint typically provides 1 degree of freedom. For instance:
+A revolute joint (rotational) allows rotation around one axis (1 DOF).
+A prismatic joint (linear) allows movement along one axis (1 DOF).
+The total DOF of a robotic manipulator is the sum of the individual DOFs provided by each joint. To fully control both the position and orientation of the end-effector in 3D space, the robot typically needs 6 DOFs (3 for position and 3 for orientation).
+Example:
+A two-link planar robotic arm (like the one in your image) typically has 2 degrees of freedom because it has 2 revolute joints, each providing rotational movement in the plane.
+DOF Examples:
+1 DOF: A single slider moving along a straight path.
+2 DOF: A robotic arm in a plane with two joints (one for each link), which allows it to reach different positions in that plane.
+6 DOF: A human arm (shoulder joint, elbow joint, wrist joint) has 6 degrees of freedom, allowing the hand to reach any point in 3D space and orient in any direction.
+Summary:
+Degrees of Freedom: The number of independent variables required to define the configuration of a system.
+In 3D space: An object can have up to 6 degrees of freedom (3 translational + 3 rotational).
+Robotics: Each joint adds 1 DOF. To fully manipulate an object in 3D space, 6 DOF are needed (for positioning and orientation).

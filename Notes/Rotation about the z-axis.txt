@@ -1,0 +1,10 @@
+Rotation about the z-axis refers to rotating an object or point around the z-axis in a 3D coordinate system. The positive and negative directions are defined as follows:
+
+Positive Rotation: A positive rotation about the z-axis follows the right-hand rule. If you curl the fingers of your right hand in the direction of rotation and point your thumb along the positive direction of the z-axis (upward), the rotation is counterclockwise when looking down from the top of the z-axis. In mathematical terms, this is typically represented as a rotation by a positive angle (e.g., +θ).
+
+Negative Rotation: A negative rotation about the z-axis is the opposite of positive rotation. If you follow the right-hand rule but rotate clockwise when looking down from the top of the z-axis, this is considered a negative rotation. In mathematical terms, this is represented as a rotation by a negative angle (e.g., -θ).
+
+So, to summarize:
+
+Positive rotation: Counterclockwise around the z-axis.
+Negative rotation: Clockwise around the z-axis.
