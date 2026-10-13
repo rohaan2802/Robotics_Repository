@@ -1,0 +1,32 @@
+In robotics, particularly when dealing with robot kinematics and control, 
+
+qz and qr usually refer to specific configurations or representations of the robot's joint parameters.
+
+qz and qr 
+
+qz:Often denotes a zero position or a configuration where all joint angles are set to zero. It represents a home or resting position of the robot.
+In the context of a robot with two joints, for example, 
+
+qz=[0,0] would mean that both joints are aligned along their respective axes, typically pointing straight up or towards the robot's base frame.
+
+qr:Generally represents a specific robot configuration or a desired set of joint angles for a particular task or goal. This configuration can be used to describe a target position or orientation for the end effector.
+For example, 
+qr=[0.2,0.3] might mean the first joint is at 0.2 radians and the second joint is at 0.3 radians.
+Usage in Robotics
+Forward Kinematics: Both qz and qr can be used as inputs to the forward kinematics function (fkine) to calculate the position of the end effector in the respective configurations.
+
+Control: In trajectory planning or motion control, the robot might move from 
+qz to qr, allowing the end effector to reach a target position while ensuring smooth motion.
+
+Example
+qz=[0,0]:
+
+Joint angles are both at 0.
+End effector is at a base or home position.
+
+qr=[0.2,0.3]:
+
+Joint angles are set to 0.2 radians and 0.3 radians.
+This configuration would be used to compute the corresponding end effector position.
+Conclusion
+Understanding qz and qr is crucial for tasks such as trajectory planning, robot simulation, and implementing control strategies. They serve as reference points for defining and achieving desired positions in a robot's workspace.
