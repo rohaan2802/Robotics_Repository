@@ -1,1 +1,6 @@
-Roll, pitch, and yaw are angles that describe the orientation of an object in 3D space, especially when discussing the rotation of aircraft, vehicles, or robots. These angles define how the object rotates about its three principal axes: the longitudinal (forward), lateral (side-to-side), and vertical (up-down) axes.
+ROLL, PITCH, YAW
+
+Angles describing the orientation of a body in 3D (aircraft, vehicles, robots), as rotations about its three principal axes:
+- Roll  - about the longitudinal (forward) axis
+- Pitch - about the lateral (side-to-side) axis
+- Yaw   - about the vertical (up-down) axis
