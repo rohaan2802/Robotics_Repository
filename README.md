@@ -10,7 +10,7 @@ My complete Robotics course collection – sixteen weeks of lecture slides, hand
 [![Subject](https://img.shields.io/badge/Subject-Robotics-6d28d9?style=for-the-badge)](#topics-covered)
 [![FAST-NUCES](https://img.shields.io/badge/FAST--NUCES-Fall%202024-166534?style=for-the-badge)](#course-overview)
 [![MATLAB](https://img.shields.io/badge/MATLAB-Robotics%20Toolbox-b45309?style=for-the-badge)](#workshops)
-[![Website](https://img.shields.io/badge/Website-Live-0b7285?style=for-the-badge)](https://rohaan2802.github.io/Robotics_Technology/)
+[![Website](https://img.shields.io/badge/Website-Live-0b7285?style=for-the-badge)](https://rohaan2802.github.io/Robotics_Repository/)
 
 </div>
 
@@ -20,9 +20,9 @@ My complete Robotics course collection – sixteen weeks of lecture slides, hand
 
 | What | Link |
 |------|------|
-| Repository | [https://github.com/rohaan2802/Robotics_Technology](https://github.com/rohaan2802/Robotics_Technology) |
-| Website (GitHub Pages) | [https://rohaan2802.github.io/Robotics_Technology/](https://rohaan2802.github.io/Robotics_Technology/) |
-| Download whole repository (ZIP) | [https://github.com/rohaan2802/Robotics_Technology/archive/refs/heads/main.zip](https://github.com/rohaan2802/Robotics_Technology/archive/refs/heads/main.zip) |
+| Repository | [https://github.com/rohaan2802/Robotics_Repository](https://github.com/rohaan2802/Robotics_Repository) |
+| Website (GitHub Pages) | [https://rohaan2802.github.io/Robotics_Repository/](https://rohaan2802.github.io/Robotics_Repository/) |
+| Download whole repository (ZIP) | [https://github.com/rohaan2802/Robotics_Repository/archive/refs/heads/main.zip](https://github.com/rohaan2802/Robotics_Repository/archive/refs/heads/main.zip) |
 
 ---
 
@@ -172,7 +172,7 @@ The course textbook is *Robotics, Vision and Control* (2nd edition) by Peter Cor
 ## Folder Structure
 
 ```text
-Robotics_Technology/
+Robotics_Repository/
 ├── Assignments/
 │   ├── A2 Robotics.pdf
 │   ├── A4 Robotics.pdf
@@ -374,10 +374,10 @@ Robotics_Technology/
 
 ```bash
 # everything
-git clone https://github.com/rohaan2802/Robotics_Technology.git
+git clone https://github.com/rohaan2802/Robotics_Repository.git
 
 # smaller clone that skips large files (like the textbook) until you open them
-git clone --filter=blob:limit=5m https://github.com/rohaan2802/Robotics_Technology.git
+git clone --filter=blob:limit=5m https://github.com/rohaan2802/Robotics_Repository.git
 ```
 
 The MATLAB scripts need the [Robotics Toolbox for MATLAB](https://github.com/petercorke/robotics-toolbox-matlab) by Peter Corke.
