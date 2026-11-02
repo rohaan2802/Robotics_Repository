@@ -18,20 +18,40 @@ My complete Robotics course collection – sixteen weeks of lecture slides, hand
 
 ## Live Links
 
-| Link | Description |
+| What | Link |
 |---|---|
-| [Website](https://rohaan2802.github.io/Robotics_Technology/) | Project website with search, filters and a screenshot viewer |
-| [Repository](https://github.com/rohaan2802/Robotics_Technology) | Browse every file on GitHub |
-| [Download whole repository (ZIP)](https://github.com/rohaan2802/Robotics_Technology/archive/refs/heads/main.zip) | Everything in one archive |
-| [Lecture slides](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2301) | Start at Lecture #01 – folders run up to Lecture #16 |
-| [Workshops](https://github.com/rohaan2802/Robotics_Technology/tree/main/WORK_SHOPS) | Robotics Toolbox, pose and simulation workshops, ESP8266 tutorials |
-| [Assignments](https://github.com/rohaan2802/Robotics_Technology/tree/main/Assignments) | Assignment handouts, solutions and MATLAB code |
-| [Quiz solutions](https://github.com/rohaan2802/Robotics_Technology/tree/main/Quizes) | Quiz 2, IK and sessional solutions |
-| [Semester project brief](https://github.com/rohaan2802/Robotics_Technology/blob/main/Final_Project/Robotics%20-%20Semester%20Project.pdf) | Requirements and list of approved projects |
-| [Notes](https://github.com/rohaan2802/Robotics_Technology/tree/main/Notes) | Handwritten notes, quiz prep and short explanations |
-| [Robotics, Vision and Control (2nd ed.)](https://github.com/rohaan2802/Robotics_Technology/blob/main/Books/Robotics%2C%20Vision%20and%20Control_2nd%20edition.pdf) | Course textbook by Peter Corke |
-| [Lecture 6 video](https://www.youtube.com/watch?v=_xcUYlF9lpI) | Recorded lecture on YouTube |
-| [Lecture 12 video](https://www.youtube.com/watch?v=OkkEuMe-uyc) | Recorded lecture on YouTube |
+| Repository | [rohaan2802/Robotics_Technology](https://github.com/rohaan2802/Robotics_Technology) |
+| Website (GitHub Pages) | [rohaan2802.github.io/Robotics_Technology](https://rohaan2802.github.io/Robotics_Technology/) |
+| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/Robotics_Technology/archive/refs/heads/main.zip) |
+| Course folder | [Lecture #01](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2301) |
+| Course folder | [Lecture #02](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2302) |
+| Course folder | [Lecture #03](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2303) |
+| Course folder | [Lecture #04](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2304) |
+| Course folder | [Lecture #05](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2305) |
+| Course folder | [Lecture #06](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2306) |
+| Course folder | [Lecture #07](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2307) |
+| Course folder | [Lecture #08](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2308) |
+| Course folder | [Lecture #09](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2309) |
+| Course folder | [Lecture #10](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2310) |
+| Course folder | [Lecture #11](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2311) |
+| Course folder | [Lecture #12](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2312) |
+| Course folder | [Lecture #13](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2313) |
+| Course folder | [Lecture #14](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2314) |
+| Course folder | [Lecture #15](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2315) |
+| Course folder | [Lecture #16](https://github.com/rohaan2802/Robotics_Technology/tree/main/Lecture%20%2316) |
+| Course folder | [Assignments](https://github.com/rohaan2802/Robotics_Technology/tree/main/Assignments) |
+| Course folder | [Quizes](https://github.com/rohaan2802/Robotics_Technology/tree/main/Quizes) |
+| Course folder | [WORK_SHOPS](https://github.com/rohaan2802/Robotics_Technology/tree/main/WORK_SHOPS) |
+| Final project folder | [Final_Project](https://github.com/rohaan2802/Robotics_Technology/tree/main/Final_Project) |
+| Final project | [Robotics - Semester Project.pdf](https://github.com/rohaan2802/Robotics_Technology/blob/main/Final_Project/Robotics%20-%20Semester%20Project.pdf) |
+| Study notes | [Notes](https://github.com/rohaan2802/Robotics_Technology/tree/main/Notes) |
+| Study notes | [Robotic Notes.pdf](https://github.com/rohaan2802/Robotics_Technology/blob/main/Notes/Robotic%20Notes.pdf) |
+| Study notes | [Euler angles.txt](https://github.com/rohaan2802/Robotics_Technology/blob/main/Notes/Euler%20angles.txt) |
+| Study notes | [Degrees of Freedom (DOF).txt](https://github.com/rohaan2802/Robotics_Technology/blob/main/Notes/Degrees%20of%20Freedom%20%28DOF%29.txt) |
+| Other useful path | [Robotics, Vision and Control_2nd edition.pdf](https://github.com/rohaan2802/Robotics_Technology/blob/main/Books/Robotics%2C%20Vision%20and%20Control_2nd%20edition.pdf) |
+| Other useful path | [Lecture 6 video (YouTube)](https://www.youtube.com/watch?v=_xcUYlF9lpI) |
+| Other useful path | [Lecture 12 video (YouTube)](https://www.youtube.com/watch?v=OkkEuMe-uyc) |
+| Other useful path | [LICENSE](https://github.com/rohaan2802/Robotics_Technology/blob/main/LICENSE) |
 
 ---
 
